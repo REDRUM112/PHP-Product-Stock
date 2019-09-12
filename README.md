@@ -1,4 +1,4 @@
-# Product-Stock
+# PHP-Product-Stock
 
 Simple php script to keep track of your current available products.
 
